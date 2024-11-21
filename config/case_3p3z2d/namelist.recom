@@ -79,6 +79,12 @@ cZoo2N                = 0.2d0
 recom_Tref            = 288.15d0    ! [K]
 C2K                   = 273.15d0    ! Conversion from degrees C to K
 Ae                    = 4500.d0     ! [K] Slope of the linear part of the Arrhenius function
+ord_d                 = -0.2216d0 ! diatom ordonnée
+expon_d               = 0.0406d0 ! diatom exponent
+ord_phy               = -1.2154d0 ! small phyto ordonnée
+expon_phy             = 0.0599d0 ! small phyto exponent
+ord_cocco             = -0.2310d0 ! coccolitho ordonnée
+expon_cocco           = 0.0327d0 ! coccolitho exponent
 reminSi               = 0.02d0
 k_o2_remin            = 15.d0       ! O2remin mmol m-3; Table 1 in Cram 2018 cites DeVries & Weber 2017 for a range of 0-30 mmol m-3
 /
